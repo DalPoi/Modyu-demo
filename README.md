@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/28939890/README.1.md)
 # ModYu HT4 Aftercare Assistant
 
 An AI-powered chatbot demo built for **ModYu**, a UK-based startup developing a protocol-led scalp care pathway for hair transplant clinics.
